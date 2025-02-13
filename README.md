@@ -5,7 +5,7 @@
 🩺 Project Overview
 This AI Agent leverages deep learning to analyze chest X-ray images, classify diseases, and generate automated medical reports. It integrates Vision Transformers (ViT) for image analysis, BLIP-2 for AI-generated reports, and RAPIDS cuDF/cuCIM for GPU-accelerated processing.
 
-💡 Key Features:
+💡 Key Features:<br>
  ✔ Automated Disease Classification: Uses Vision Transformers (ViT) to predict chest conditions like Cardiomegaly, Atelectasis, Pneumonia, etc. <br>
  ✔ AI-Powered Medical Reports: Generates human-like radiology reports using Hugging Face BLIP-2.<br>
  ✔ GPU-Accelerated Data Processing: Implements RAPIDS cuDF for structured medical data and cuCIM for high-speed image handling.<br>
