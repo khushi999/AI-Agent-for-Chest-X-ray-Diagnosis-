@@ -1,4 +1,4 @@
-#📌 AI Agent for Medical X-ray Diagnosis & Report Generation
+# 📌 AI Agent for Medical X-ray Diagnosis & Report Generation
 
 🚀 Vision Transformers (ViT) | RAPIDS cuDF/cuCIM | Hugging Face BLIP-2 | Streamlit | PyTorch
 
